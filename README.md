@@ -7,7 +7,7 @@
 
 
 
-I'm 23y, passionate for building new things. I'm a full-stack developer, but I also love to play with new technologies and explore the world of software development.
+I'm 23y, passionate for building new things. I'm a full-stack Software Engineer, but I also love to play with new technologies and explore the world of software development.
 
 - Currently working at [Pipefy](https://www.pipefy.com/) as a Software Engineer.
 - Currently studying Electrical  & Computer Engineering at [Escola Politécnica da Universidade de São Paulo](https://www.poli.usp.br/).
