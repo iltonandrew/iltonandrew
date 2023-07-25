@@ -25,5 +25,4 @@ I'm 23y, passionate for building new things. I'm a full-stack Software Engineer,
 - Express
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iltonandrew&show_icons=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iltonandrew&layout=compact&theme=nightowl)
