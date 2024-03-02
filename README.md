@@ -1,26 +1,27 @@
-### Hello 👋, I'm Ilton and I build things for the web. 🚀
+### Hi 👋, I'm Ilton and I build things for the web (mostly). 🚀
 ---
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iltonandrew@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iltonandrew+github@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilton.andrew/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IltonAndrew)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilton-andrew/)
 
 
 
-I'm 23y, passionate for building new things. I'm a full-stack Software Engineer, but I also love to play with new technologies and explore the world of software development.
+I'm 25y, passionate for building new things. I build stuff, primarily as Software Engineer, but I also love to play with new technologies and explore the world of software and hardware.
 
-- Currently working at [Pipefy](https://www.pipefy.com/) as a Software Engineer.
-- Currently studying Electrical  & Computer Engineering at [Escola Politécnica da Universidade de São Paulo](https://www.poli.usp.br/).
-- Building [my portfolio and blog](https://iltonandrew.com.br/) with [Next.js](https://nextjs.org/).
+- Currently working at [Media Hero](https://mediahero.ai/) as a Software Engineer and building awesome stuffs.
+- Majored Electrical  & Computer Engineering at [Escola Politécnica da Universidade de São Paulo](https://www.poli.usp.br/).
+- You can find my [my portfolio](https://iltonandrew.com.br/) built it with [Next.js](https://nextjs.org/).
 
 
 ### Tech Stack 💻
 ---
 
-- React (and React Native)
-- Next.js
+- Falling in love with Astro
+- Next.js (with tRPC)
+- React (and Native)
 - TypeScript
 - Python
+- Bittersweet relationship with Rust
 - Node.js
 - Express
 
